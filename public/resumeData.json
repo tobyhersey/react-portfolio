@@ -31,6 +31,14 @@
   },
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Kent",
+        "degree": "Masters in Advanced Computer Science",
+        "graduated": "January 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
     "work": [
       {
         "company": "Thales",
